@@ -1,0 +1,57 @@
+body{
+    background-image: radial-gradient(at center top, #ccdae0, #EDF2F4);
+  
+}
+
+header{
+text-align: center;
+}
+
+h1{
+color:#EF233C;
+font-weight:500;
+font-style:impact;
+}
+
+h3{
+color:#2B2D42;
+font-size:x-large;
+font-weight:500;
+text-decoration: dotted;
+
+}
+
+article{
+border:solid 2px;
+
+}
+
+img{
+text-align: center;
+margin:auto;
+display:flex;
+}
+
+footer{
+position:relative;
+float:right;
+}
+
+ul{
+    list-style:none;
+}
+
+a{
+    color:grey;
+}
+a:link:hover{
+    color:#2B2D42;
+}
+
+span{
+    color:red;
+}
+
+table { 
+    margin : auto 
+}
